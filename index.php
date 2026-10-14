@@ -1,3 +1,1 @@
-<?php
-echo "Proyecto Web Ingenieria";
-?>
+Proyecto Web Ingenieria
